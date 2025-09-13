@@ -3,10 +3,10 @@ This repository contains the code and final paper for our group project in INFO 
 
 ### **Roles & Contributions**
 
-Paul Garces – Designed and implemented the neural network model in TensorFlow; contributed to data cleaning, preprocessing, and co-authoring the final paper.
+**Paul Garces** – Designed and implemented the neural network model in TensorFlow; contributed to data cleaning, preprocessing, and co-authoring the final paper.
 
-Ryan Nishi – Implemented the KNN model; contributed to data cleaning, preprocessing, and co-authoring the final paper.
+**Ryan Nishi** – Implemented the KNN model; contributed to data cleaning, preprocessing, and co-authoring the final paper.
 
-Saimanasvi Charugundla – Implemented the Ridge Regression model; contributed to data cleaning, preprocessing, and co-authoring the final paper.
+**Saimanasvi Charugundla** – Implemented the Ridge Regression model; contributed to data cleaning, preprocessing, and co-authoring the final paper.
 
-Rishita Reddy – Took the lead in drafting and organizing the final paper; contributed to data cleaning and preprocessing.
+**Rishita Reddy** – Took the lead in drafting and organizing the final paper; contributed to data cleaning and preprocessing.
