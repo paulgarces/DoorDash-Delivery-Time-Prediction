@@ -3,7 +3,7 @@ This repository contains the code and final paper for our group project in INFO 
 
 ### **Roles & Contributions**
 
-**Paul Garces** – Designed and implemented the neural network model in TensorFlow; contributed to data cleaning, preprocessing, and co-authoring the final paper.
+**Paul Garces** – Designed and implemented the neural network model in TensorFlow & MLPRegressor; contributed to data cleaning, preprocessing, and co-authoring the final paper.
 
 **Ryan Nishi** – Implemented the KNN model; contributed to data cleaning, preprocessing, and co-authoring the final paper.
 
